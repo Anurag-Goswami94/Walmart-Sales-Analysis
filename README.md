@@ -12,6 +12,7 @@ Objectives:
 
 
 
+
 Mandalay: 
 
 Analysis-1: Analyse the performance of sales and revenue at branch level in the city of Mandalay.
@@ -36,6 +37,8 @@ o	Branch-B: Branch-B sold a total of 664 products, out of which, it sold 11.14% 
 
 o	Branch-C: Branch-C sold a total of 519 products, out of which, it sold 19.08% of Fashion Accessories items, 14.07% of Electronic Accessories items, 15.41% of Sports and Travel items, 14.45% of Home and Lifestyle items, 23.89% of Health and Beauty items, 13.10% of Food and Beverages items. 
   The total revenue collected by Branch-C from selling the products is $2,97,94.62. From the total revenue collected, Fashion Accessories items generated $5349.27, Electronic Accessories items generated $4083.67, Sports and Travel items generated $5177.42, Home and Lifestyle items generated $3767.10, Health and Beauty items generated $7292.51, Food and Beverages items generated $4124.65. 
+
+
 
 
 Analysis-2: Find the Average Price of an item sold at each branch in the city of Mandalay.
@@ -86,6 +89,8 @@ During this period a total of $32,785.02 revenue was generated in the city of Ma
 During this period a total of $32,949.85 revenue was generated in the city of Mandalay. From the total revenue collected, Electronic Accessories items generated 10.59% of the total revenue, Fashion Accessories items generated 12.03% of the total revenue, Food and Beverage items generated 8.82% of the total revenue, Health and Beauty items generated 22.33% of the total revenue, Home and Lifestyle items generated 24.00% of the total revenue and Sports and Travel items generated 22.23% of the total revenue.  Moreover, most payments were made through Ewallet in this month (41.07%).
 
 
+
+
 Recommendation for better Sale in April 2019 in the city of Mandalay:
 
 •	The sales of Sport and Travel items have increased by 3.75% in the month of March after its sales dropped to 15.38% during the month of February. Moreover, the total revenue collected from Sport and Travel also increased by 6.17% in the month of March after it dropped to 16.06% in February. Furthermore, the Male Customers gave a better overall sale to the Sports and Travel category as they have a higher average percentage of purchase. So, we can assume that items from the Sport and Travel category will give the stores a good sale during the month of April,2019 in the city of Mandalay. 
@@ -107,7 +112,10 @@ You can bring in more Health and Beauty related items in the stores of Mandalay 
 
 
 
+
+
 Naypyitaw:
+
 
 Analysis-1: Analyse the performance of sales and revenue at branch level in the city of Naypyitaw.
 
@@ -131,6 +139,9 @@ The total revenue collected by Branch-B from selling the products is $3,51,57.75
 
 o	Branch-C: Branch-C sold a total of 579 products, out of which, 14.34% of Electronic Accessories items, 16.75% of Fashion Accessories items, 24.70% of Food and Beverages items, 11.23% of Health and Beauty items, 14.34% of Home and Lifestyle items, 18.65% of Sport and Travel items.
 The total revenue collected by Branch-C from selling the products is $3,41,60.14. From the total revenue collected, Electronic Accessories items generated $4612.49, Fashion Accessories items generated $5932.61, Food and Beverages items generated $8853.95, Health and Beauty items generated $3989.36, Home and Lifestyle items generated $4379.31, Sport and Travel items generated $6392.42.
+
+
+
 
 Analysis-2: Find the Average Price of an item sold at each branch in the city of Naypyitaw.
 
@@ -164,6 +175,9 @@ o	Branch-C: Average price of each item sold in Branch-C are:
 •	Sports and Travel: average Price of Sports and Travel items sold is $56.48. 
 
 
+
+
+
 Analysis-3: Analyse the performance of sales and revenue, Month over Month across the Product line, Gender, and Payment Method, and identify the focus areas to get better sales for April 2019 in the city of Naypyitaw.
 
 The monthly analysis of Sales and Revenue across Product Line, Gender and Payment Method for the city of Naypyitaw are: 
@@ -194,7 +208,11 @@ You can bring in more Fashion Accessories related items in the stores of Naypyit
 
 
 
+
+
+
 Yangon:
+
 
 Analysis-1: Analyse the performance of sales and revenue at branch level in the city of Yangon.
 
@@ -219,6 +237,8 @@ The total revenue collected by Branch-B from selling the products is $3,51,93.50
 
 o	Branch-C: Branch-C sold a total of 630 products, out of which, 13.49% of Electronic Accessories items, 16.98% of Fashion Accessories items, 21.27% of Food and Beverages items, 16.19% of Health and Beauty items, 10.79% of Home and Lifestyle items, 21.27% of Sport and Travel items.
 The total revenue collected by Branch-B from selling the products is $3,23,02.43. From the total revenue collected, Electronic Accessories items generated $4067.42, Fashion Accessories items generated $6639.61, Food and Beverages items generated $6542.55, Health and Beauty items generated $5175.73, Home and Lifestyle items generated $3121.52, Sport and Travel items generated $6755.60.
+
+
 
 
 Analysis-2: Find the Average Price of an item sold at each branch in the city of Naypyitaw.
@@ -251,6 +271,9 @@ o	Branch-C: Average price of each item sold in Branch-C are:
 •	Home and Lifestyle: Average Price of Home and Beauty items sold is $46.73.
 •	Sports and Travel: average Price of Sports and Travel items sold is $51.19.
 
+
+
+
 Analysis-3: Analyse the performance of sales and revenue, Month over Month across the Product line, Gender, and Payment Method, and identify the focus areas to get better sales for April 2019 in the city of Yangon.
 
 The monthly analysis of Sales and Revenue across Product Line, Gender and Payment Method for the city of Yangon are: 
@@ -263,6 +286,9 @@ During this period a total of $28,438.21 revenue was generated in the city of Ya
 
 •	March: In the month of March, a total of 681 items were sold in the city of Yangon, out of which, 17.03% were Electronic Accessories items, 10.28% were Fashion Accessories items, 14.10% were Food and Beverage items, 19.38% were Health and Beauty items, 18.80% were Home and Lifestyle items and 20.41% were Sports and Travel items. Among the total items sold, Female Customer purchased more of Home and Lifestyle items (10.43%), while Male Customer purchased more of Health and Beauty items (11.89%).
 During this period a total of $3,58,65.83 revenue was generated in the city of Yangon. From the total revenue collected, Electronic Accessories items generated 17.83% of the total revenue, Fashion Accessories items generated 11.45% of the total revenue, Food and Beverage items generated 14.51% of the total revenue, Health and Beauty items generated 15.19% of the total revenue, Home and Lifestyle items generated 19.47% of the total revenue and Sports and Travel items generated 21.56% of the total revenue.  Moreover, most payments were made through Ewallet in this month (36.22%).
+
+
+
 
 
 Recommendation for better Sale in April 2019 in the city of Yangon:
